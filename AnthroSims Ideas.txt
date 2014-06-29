@@ -1,0 +1,44 @@
+AnthroSims Ideas
+
+
+AI based on a 'corrected' Moslow's hierarchy of needs.
+Needs' value will increase over time (at different rates). Need values will vary from 0-100. Each need will have a multiplier, with more important needs having a higher multiplier. The need with the highest value will be satisfied first. Activities and environments can lower and raise need values. Need multipliers can be increased or decreased by sim traits (e.g. germophobe would have hygiene increase faster). 
+
+Needs (time to increase from 0 to 100) and multipliers:
+Thirst (36 hours): 3x
+Hunger (72 hours): 3x
+Excretion (24 hours): 2x
+Sleep (24 hours): 2x
+Comfort (24 hours): 1.75x
+Social (72 hours): 1.25x
+Fun (48 hours): 1.25x
+Hygiene (72 hours): 1x
+
+Sims work to earn spending money. The amount of time spent working is determined by a work ethic stat. (No bills need paid, because I don't like the Bill Paying Simulator minigame.) Work done by sims is related to their interests (e.g. someone who likes music may DJ or compose / perform / record music). Quality of work and thus payment is dependent on relevant skill level. Work can be as an employee at a business, as an independent product maker, or as a service provider.
+
+When choosing something fun or something to do when no need must be tended, sims will perform activities related to their interests much more often than activities outside their interests, thus establishing hobbies.
+
+Settings will be defined mostly by what is located in that setting (e.g. a house is a house simply by having a bed, food, etc.) Areas / locations sims would want to visit outside of home would be determined by what may be accomplished in that area (e.g. a sim seeking to purchase food would go to an area which contains food stalls). Potential areas: Homes, Schools, Work Places, Parks, 'Wilderness', Stores (incl. services and restaurants).
+
+Relations between sims (not sure how to define in code): Family, Spouse, Friend, Boss/Teacher and Student/Worker, Romantic Interest (potentially one sided)
+
+Activities are actions which usually seek to fulfill a need or interest. Like in real life, most things can be done while still interacting with others. Potential activities: Talking (with focus on interests), Eating (meals or snacks), Cooking, Drinking (Alcohol?), Bathroom (maybe not so social), Sleeping (sleep overs?), Study (Study Groups), Attending School (grades/homework?), Work, Play (see hobbies), Romance stuff (Hug, Kiss, etc.), Chores? (Is there any reason?), Parties (bunch of people together), Non-skill based games (board and card games, games of luck), Telecommunication (telephone, texting, IM, email, social networking, etc.), Give Gifts, Go to events (concerts, fairs, movies, etc.), watch TV or movie
+
+Hobbies / skilled activities: Scientific and mechanical (discover, build, program), Atheltics (Ping Pong, Tennis, Hockey, Soccer, Swimming), Arts (Woodworking and carpentry, Clothes / Fashion, Art as in drawing and etc., Blacksmithing and metal working, Music, Gardening, Martial Arts, Cooking), Non-athletic (Billiards, Darts, Bocce Ball, Golf, Racing {Go Karts}, Curling, Corn Hole, VIDEO GAMES {Local multiplayer, online multiplayer, MMOs, VIRTUAL REALITY}, Horse Shoes, Air Hockey)
+
+Sims have the ability to expand, decorate, renovate and furnish their property.
+
+Sims can have a pet. 
+
+Sims buy and wear specific items of clothing based on personal preference. 
+
+Potential 'Races': fox, cat, dog, rabbit, equine, mouse, plain human
+
+Sims will have a set of highly detailed statistics and biography which indicate interests, preferences (food, beverage, like or dislike of activities, converstaion), traits which affect needs (e.g. eats a lot), flavor details (e.g. wears glasses, has freckles), skill proficiency, personality type (shy, nerdy, prepy, etc.), and detailed physical measurements and description (height, fatness on a scale 1-10, fur and eye and hair color, BWH, ear and nose and mouth shape and sizes, etc.). The idea is to be able to understand the sim as an individual and be able to picture the sim in great detail (not down to individual freckles or anything though). Possibly, the biography could include a 2D still picture(s) which is stiched together from small component sprites. 
+
+The circle representing sims could have ASCII emoticons representing their mood. ( :), ^_^, 0_0, >:(, etc.)
+
+Advanced dialogue and social interactions.
+
+Quests
+
